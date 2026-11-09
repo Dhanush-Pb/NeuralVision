@@ -60,7 +60,7 @@ Flutter UI
 ## Project Repositories
 
 **AI/ML Model Development:**  
-[HandGestureAI-ML](https://github.com/your-username/HandGestureAI-ML)
+[HandGestureAI-ML](https://github.com/Dhanush-Pb/HandGestureAI-ML)
 
 This repository contains the Python-based model development, training workflows, dataset preparation, evaluation and TensorFlow Lite conversion.
 
